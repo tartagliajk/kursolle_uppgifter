@@ -1,0 +1,2 @@
+name="Nina Vazae"
+print("Jag heter {} och jag läser programmering på Alströmergymnasiet.\nJag tycker att det verkar 'kul' med programmering.\nDessa tre rader\nhar jag skrivit med\nen enda print().\nFöljande saker har jag kommenterat i min kod:\n  * Hur jag skrev ut dubbelfnuttarna på andra raden\n  * Hur jag kunde skriva ut tre rader med en print().\n  * Hur jag använde mig av tab, för att göra denna listan.".format(name))
